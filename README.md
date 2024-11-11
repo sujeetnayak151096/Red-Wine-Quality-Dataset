@@ -2,6 +2,15 @@
 
 This project performs Exploratory Data Analysis (EDA) on the Red Wine Quality dataset. This dataset consists of physicochemical properties and quality ratings for different variants of Portuguese "Vinho Verde" red wine. The analysis aims to uncover patterns and insights about wine quality based on various attributes.
 
+## Table of Contents
+- [Dataset Information](#dataset-information)
+  - [Attribute Information](#attribute-information)
+- [Project Steps](#project-steps)
+- [Visualizations](#visualizations)
+- [Libraries Used](#libraries-used)
+- [Usage](#usage)
+- [Author](#author)
+
 ## Dataset Information
 
 The dataset contains physicochemical measurements (input variables) and quality scores (output variable) of red wine samples. Due to privacy and logistical constraints, details such as grape type, brand, or price are not available.
@@ -69,28 +78,12 @@ The dataset contains physicochemical measurements (input variables) and quality 
 
 ## Usage
 
-To run this analysis, ensure you have the required dependencies installed:
+You can run this analysis by executing the code in the Jupyter Notebook or Python script. Ensure the following dependencies are installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
 
 ```
-
-## Installation and Usage
-
-To run this analysis:
-
-1. Clone this repository.
-
-2. Install the necessary libraries:
-
-   ```bash
-
-   pip install pandas numpy matplotlib seaborn
-
-   ```
-3. Run the WinequalityEDA.ipynb file Jupyter Notebook to execute the code and view the visualizations.
-
 
 ## Author
 **Sujeet Nayak** 
