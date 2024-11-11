@@ -75,3 +75,23 @@ To run this analysis, ensure you have the required dependencies installed:
 pip install pandas numpy matplotlib seaborn
 
 ```
+
+## Installation and Usage
+
+To run this analysis:
+
+1. Clone this repository.
+
+2. Install the necessary libraries:
+
+   ```bash
+
+   pip install pandas numpy matplotlib seaborn
+
+   ```
+3. Run the WinequalityEDA.ipynb file Jupyter Notebook to execute the code and view the visualizations.
+
+
+## Author
+**Sujeet Nayak** 
+Data Engineering
